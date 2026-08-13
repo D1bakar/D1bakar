@@ -1,213 +1,211 @@
-# D1bakar — World‑Class Developer Repo
+<div align="center">
 
-[![Build Status](https://github.com/D1bakar/D1bakar/actions/workflows/ci.yml/badge.svg)](https://github.com/D1bakar/D1bakar/actions)
-[![Coverage](https://img.shields.io/badge/coverage-0%25-lightgrey.svg)](https://github.com/D1bakar/D1bakar/actions)
-[![License](https://img.shields.io/github/license/D1bakar/D1bakar.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/D1bakar/D1bakar.svg?style=social&label=Stars)](https://github.com/D1bakar/D1bakar/stargazers)
-[![Contributors](https://img.shields.io/github/contributors/D1bakar/D1bakar.svg)](https://github.com/D1bakar/D1bakar/graphs/contributors)
-[![Repo Size](https://img.shields.io/github/repo-size/D1bakar/D1bakar.svg)](https://github.com/D1bakar/D1bakar)
+# D1BAKAR
 
----
+### Software Engineering · Systems · AI · Building in Public
 
-<p align="center">
-  <img alt="hero" src="https://raw.githubusercontent.com/D1bakar/D1bakar/main/assets/hero-placeholder.gif" width="720" />
+<a href="https://github.com/D1bakar">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=720&lines=I+build+software%2C+not+just+code.;Learning+systems+by+building+them.;Python+%7C+Web+Systems+%7C+AI+%7C+Automation;Always+shipping.+Always+learning." alt="Typing animation" />
+</a>
+
+<p>
+  <a href="https://github.com/D1bakar"><img src="https://img.shields.io/badge/GitHub-D1bakar-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/D1bakar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-A professional, well‑engineered repository template and profile for a world‑class developer — organized, documented, and production‑ready.
-
-> Built for clarity, contribution, and continuous delivery.
+</div>
 
 ---
 
-## Table of Contents
+## `whoami`
 
-- [Why this repo](#why-this-repo)
-- [Showcase](#showcase)
-- [Status & Badges](#status--badges)
-- [Quickstart](#quickstart)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [Engineering Practices](#engineering-practices)
-- [Contributing](#contributing)
-- [Repository Layout](#repository-layout)
-- [Roadmap](#roadmap)
-- [Security](#security)
-- [License](#license)
+I’m **D1bakar**, a developer focused on becoming a strong software engineer through deliberate practice and real systems.
+
+I’m currently building with **Python**, web technologies, automation, and AI-assisted tooling while going deeper into software engineering fundamentals: architecture, security, networking, operating systems, developer tooling, and clean code.
+
+My approach is simple:
+
+> **Understand the system. Build the system. Break the system. Improve the system.**
+
+I care less about collecting frameworks and more about understanding **why software works**.
 
 ---
 
-## Why this repo
+## Engineering Focus
 
-This repository is designed to be exemplary: clear documentation, reproducible builds, robust CI, automated releases, quality gates (lint/test/coverage), security checks, and a welcoming contributor experience. Treat it as both your personal profile and a showcase of engineering maturity.
-
----
-
-## Showcase
-
-Add a short GIF, video, or interactive demo here. Place the file at `assets/hero.gif` and it will appear above.
-
----
-
-## Status & Badges
-
-- CI: GitHub Actions (CI pipeline: lint → test → build → publish)
-- Code coverage: Codecov / Coveralls (badge placeholder above)
-- Releases: Semantic Releases + GitHub Releases
-- License: MIT (or your preferred license)
-
----
-
-## Quickstart
-
-Clone, inspect, and run the examples in under a minute.
-
-```bash
-git clone https://github.com/D1bakar/D1bakar.git
-cd D1bakar
-# open README and /docs for project specifics
-```
-
-If this repo contains code projects, each project folder will include its own README with install, test and run commands.
-
----
-
-## Usage
-
-Examples to get started quickly — replace placeholders with real commands from your projects.
-
-Run a demo script:
-
-```bash
-# make executable then run
-chmod +x ./scripts/demo.sh
-./scripts/demo.sh
-```
-
-Run tests:
-
-```bash
-# JS example
-npm ci && npm test
-
-# Python example
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-pytest
-```
+<table>
+<tr>
+<td width="25%" align="center">
+<strong>⚙️ SOFTWARE</strong><br/>
+Architecture<br/>
+APIs<br/>
+Automation<br/>
+Developer tooling
+</td>
+<td width="25%" align="center">
+<strong>🧠 SYSTEMS</strong><br/>
+Operating systems<br/>
+Networking<br/>
+Security<br/>
+Linux
+</td>
+<td width="25%" align="center">
+<strong>🤖 AI</strong><br/>
+AI applications<br/>
+Agents & tooling<br/>
+Automation<br/>
+Human + AI workflows
+</td>
+<td width="25%" align="center">
+<strong>🚀 BUILDING</strong><br/>
+Products<br/>
+Experiments<br/>
+Open source<br/>
+Shipping in public
+</td>
+</tr>
+</table>
 
 ---
 
-## Architecture
+## Stack
 
-High‑level architecture overview (add a diagram at `assets/architecture.svg`):
+<div align="center">
 
-- src/ — primary source code (organized by domain)
-- modules/ — small, composable libraries with clear APIs
-- services/ — long‑running services or workers
-- scripts/ — developer scripts (local dev, CI helpers)
-- docs/ — design docs, RFCs, runbooks
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,express,git,github,linux,vscode&perline=10" alt="Technology stack" />
 
-Add an interactive architecture diagram or animated SVG in `/assets` to make the README come alive.
+</div>
+
+> The stack is a toolset, not an identity. I’m more interested in fundamentals than framework collecting.
 
 ---
 
-## Engineering Practices
+## What I'm Building
 
-This repo demonstrates professional engineering workflows. Recommended files and automations to include (I can create these for you):
+### `01` — Software Systems
 
-- Continuous Integration: GitHub Actions workflows in `.github/workflows/` (CI, release, security-scans)
-- Semantic Versioning & Releases: `semantic-release` or GitHub Actions release workflow
-- Tests: unit, integration, and e2e with coverage thresholds enforced
-- Linting: ESLint / Flake8 + Prettier and pre-commit hooks
-- Dependency Management: Dependabot + lockfile maintenance
-- Security: Snyk or GitHub CodeQL scans, a SECURITY.md with disclosure policy
-- Infrastructure as Code: Terraform or Pulumi for infra automation
-- Containerization: Dockerfile + multi-stage builds
-- Observability: Logging, structured traces, and health checks
+Building small systems that force me to understand the full path from **input → logic → state → storage → interface → deployment**.
 
-Quality gates (CI):
-- Linting passes
-- Tests pass with >= X% coverage
-- Build artifact verified
-- Vulnerability scan passes
+### `02` — AI-Powered Tools
 
-Commit & PR conventions:
-- Use Conventional Commits (feat, fix, perf, docs, chore)
-- PR template describing motivation, changes, and test plan
-- Automatic changelog generation from commits
+Exploring practical AI software: developer utilities, intelligent interfaces, automation, and systems where models are one component of a larger engineered product.
+
+### `03` — OS & Systems Research
+
+Learning how computers work below the application layer — processes, memory, filesystems, networking, isolation, security, and the engineering trade-offs behind operating systems.
+
+### `04` — Engineering Discipline
+
+Turning projects into real engineering practice: version control, documentation, testing, debugging, reproducible environments, security boundaries, and maintainable architecture.
 
 ---
 
-## Contributing
+## Selected Work
 
-We welcome contributions. Please follow these steps:
+| Project                      | What it demonstrates                                             | Status                  |
+| ---------------------------- | ---------------------------------------------------------------- | ----------------------- |
+| 🎲 **Dice Roller**           | Python fundamentals, control flow, input handling, randomization | Active learning project |
+| 🌐 **AI Web Interface**      | Frontend + secure backend proxy + streamed responses             | Building                |
+| 🕷️ **Web Scraping Systems** | Data extraction, browser/web workflows, backend thinking         | Exploring               |
+| 🖥️ **OS Experiments**       | Systems thinking, security concepts, low-level architecture      | Research / learning     |
 
-1. Read CODE_OF_CONDUCT.md and CONTRIBUTING.md (add them if missing)
-2. Open an issue for large work
-3. Fork the repo, create a feature branch
-4. Run tests and linters locally
-5. Open a pull request and follow the PR template
-
-Automation suggestions I can add for you:
-- ISSUE_TEMPLATE.md
-- PULL_REQUEST_TEMPLATE.md
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
+> More projects are published and evolving on [my repositories](https://github.com/D1bakar?tab=repositories).
 
 ---
 
-## Repository Layout
+## Engineering Principles
 
-A clean layout helps discoverability and contribution.
-
-```
-/ (root)
-├─ .github/                 # actions, issue/pr templates
-├─ assets/                  # images, gifs, diagrams
-├─ docs/                    # design docs, RFCs
-├─ scripts/                 # helper scripts for dev/ci
-├─ src/                     # primary application code
-├─ tests/                   # test suites
-└─ README.md
+```text
+01. Fundamentals > trends
+02. Read the code before asking the AI to rewrite it
+03. Small systems are laboratories for big systems
+04. Security is an architectural concern, not a checkbox
+05. Documentation is part of the engineering
+06. Ship → measure → debug → refactor → repeat
+07. A working prototype is the beginning, not the finish line
 ```
 
 ---
 
-## Roadmap
+## GitHub Telemetry
 
-Planned improvements:
+<div align="center">
 
-- [ ] Add CI workflows, tests, and code coverage
-- [ ] Add automated releases and changelog
-- [ ] Add CodeQL & dependency scanning
-- [ ] Add detailed project pages for each subproject
+<img src="https://github-readme-stats.vercel.app/api?username=D1bakar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&custom_title=D1bakar%27s%20GitHub%20Activity" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1bakar&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Top languages" />
 
----
+<br/>
 
-## Security
+<img src="https://streak-stats.demolab.com?user=D1bakar&theme=transparent&hide_border=true" alt="GitHub streak statistics" />
 
-If you discover a security vulnerability, please report it following the instructions in SECURITY.md. For public disclosures, file an issue labeled `security` or email security@example.com (replace with real contact).
+</div>
 
 ---
 
-## License
+## Contribution Activity
 
-This repository is licensed under the MIT License. See LICENSE for details.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D1bakar&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=D1bakar%20—%20Contribution%20Activity" alt="Contribution activity graph" />
+
+</div>
 
 ---
 
-## What I changed
+## Currently Learning
 
-- Turned README into a professional, production-oriented front page for your profile repo.
-- Included placeholders for animated demo assets, architecture diagrams, CI badges, and documentation files to add next.
+```text
+Python                    ███████████████░░░  Deepening
+Software Engineering      ████████████░░░░░░░  Building discipline
+Linux / Systems            ██████████░░░░░░░░░  Expanding
+Networking                 █████████░░░░░░░░░░  Expanding
+Security                   ████████░░░░░░░░░░░  Expanding
+AI Engineering             ███████████░░░░░░░░  Building
+Data Structures / Algo     ████████░░░░░░░░░░░  Practising
+```
 
-If you want, I can also create the following companion files and CI workflows now:
-- .github/workflows/ci.yml (lint/test/build)
-- .github/workflows/release.yml (semantic release)
-- CONTRIBUTING.md
-- CODE_OF_CONDUCT.md
-- SECURITY.md
-- ISSUE_TEMPLATE.md and PULL_REQUEST_TEMPLATE.md
-- Add an `assets/hero.gif` and `assets/architecture.svg` sample animated assets
+*These are learning priorities, not proficiency claims.*
 
-Tell me which of the companion files or automations you'd like me to add and I will create them next.
+---
+
+## Open Source / Collaboration
+
+I’m interested in projects involving:
+
+* software engineering and developer tooling
+* Python and backend systems
+* AI-powered applications
+* automation and data workflows
+* Linux, operating systems, networking, and security
+* ambitious experiments that teach something real
+
+For collaboration, open an issue or discussion in the relevant repository, or reach out through GitHub.
+
+---
+
+## Beyond the Code
+
+I’m interested in **physics, engineering, history, geopolitics, philosophy, and the mechanics of complex systems** — especially where ideas from different fields can improve how software and people operate.
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/D1bakar">GitHub</a> · <a href="https://www.linkedin.com/">LinkedIn</a> · <a href="https://x.com/">X</a>
+
+<br/><br/>
+
+<sub>Built with Markdown. Engineered in public.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### `build → learn → break → rebuild`
+
+</div>
