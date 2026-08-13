@@ -1,346 +1,201 @@
 <div align="center">
 
-<img src="./assets/hero.gif" width="100%" alt="D1bakar — software engineering">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05070A,45:0B1220,100:1677FF&text=D1BAKAR&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%2F%20SYSTEMS%20%2F%20AI&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=I+build+software+to+understand+systems.;Python+%7C+Backend+%7C+AI+%7C+Automation;Learning+the+layers+beneath+the+abstraction.;Build.+Break.+Understand.+Improve." />
+
+<br><br>
+
 <a href="https://github.com/D1bakar">
-<img src="https://img.shields.io/badge/GITHUB-D1BAKAR-0B0F14?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-D1BAKAR-05070A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
 <a href="mailto:shridibakarghosh@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONNECT-0B0F14?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-05070A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
+
 <a href="https://github.com/D1bakar?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-0B0F14?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-05070A?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=79B8FF&center=true&vCenter=true&width=800&lines=Software+Engineering.;Systems+%2F+AI+%2F+Automation.;Building+to+understand.;Learning+in+public.;Shipping+real+software." alt="Typing animation">
+<img src="https://komarev.com/ghpvc/?username=D1bakar&style=for-the-badge&color=1677FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# D1BAKAR
+# `01` — ENGINEER
 
-### SOFTWARE ENGINEERING · SYSTEMS · AI · AUTOMATION
+I am **D1bakar**, a developer focused on becoming a strong software engineer through deliberate building, experimentation, and systems-level learning.
 
-I build software while going deeper into the systems underneath it.
-
-My current work is centered around **Python, backend engineering, automation, AI applications, Linux, networking, security, and systems thinking**.
-
-I am interested in the full path:
+My main environment is **Python + Linux + Git**, while I am expanding deeper into:
 
 ```text
-USER
- ↓
-INTERFACE
- ↓
-APPLICATION
- ↓
-API / SERVICE
- ↓
-RUNTIME
- ↓
-OPERATING SYSTEM
- ↓
-NETWORK / STORAGE
- ↓
-HARDWARE
-```
+SOFTWARE ENGINEERING
+        │
+        ├── Backend Systems
+        ├── APIs
+        ├── Automation
+        ├── Developer Tooling
+        │
+        ▼
+SYSTEMS ENGINEERING
+        │
+        ├── Linux
+        ├── Networking
+        ├── Operating Systems
+        ├── Security
+        │
+        ▼
+AI ENGINEERING
+        │
+        ├── AI Applications
+        ├── Agents
+        ├── Automation
+        └── Human + AI Systems
 
-The goal is not to collect technologies.
+I am interested in how software works underneath the abstraction, not just how to use the abstraction.
 
-The goal is to understand how they actually work.
-
----
-
-## `01 / ENGINEERING STACK`
-
+02 — TECH STACK
 <div align="center">
+LANGUAGES
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&perline=8"/>
+BACKEND / SYSTEMS
+<img src="https://skillicons.dev/icons?i=nodejs,express,linux,docker&perline=8"/>
+ENGINEERING TOOLING
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash&perline=8"/> </div> <br> <div align="center"> <img src="https://img.shields.io/badge/Python-Primary-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-Workflow-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/REST-APIs-111111?style=flat-square"/> <img src="https://img.shields.io/badge/AI-Engineering-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Automation-Systems-00C853?style=flat-square"/> </div>
+03 — WHAT I BUILD
+<table> <tr> <td width="50%" valign="top">
+SOFTWARE SYSTEMS
 
-### LANGUAGES
+Backend services, APIs, automation tools, developer utilities, and small systems designed to force deeper understanding.
 
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6">
+Focus
 
-### BACKEND / WEB
+Architecture APIs Debugging Testing Automation
 
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E">
-<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=FFFFFF">
+</td> <td width="50%" valign="top">
+AI SYSTEMS
 
-### TOOLS / INFRASTRUCTURE
+Practical AI software where models are components inside a larger engineered system rather than the entire product.
 
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624">
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED">
-<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
+Focus
 
-</div>
+Agents AI Apps Tooling Automation Integration
 
----
+</td> </tr> <tr> <td width="50%" valign="top">
+SYSTEMS
 
-## `02 / CURRENT FOCUS`
+Exploring what happens underneath application code.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+Focus
 
-### SOFTWARE
+Linux Networking Processes Memory Filesystems
 
-Backend systems
-API design
-Automation
-Developer tooling
-Testing
-Debugging
+</td> <td width="50%" valign="top">
+SECURITY
 
-</td>
+Learning to treat security as an architectural property.
 
-<td width="33%" valign="top">
+Focus
 
-### SYSTEMS
+Threat Modeling Secrets Isolation Secure APIs
 
-Linux
-Networking
-Operating systems
-Security
-Processes
-Filesystems
+</td> </tr> </table>
+04 — SELECTED WORK
+AI WEB INTERFACE
 
-</td>
+A lightweight AI chat interface with a frontend and a secure backend proxy.
 
-<td width="33%" valign="top">
-
-### AI ENGINEERING
-
-AI applications
-Model integration
-Automation
-Agents
-AI-assisted workflows
-
-</td>
-</tr>
-</table>
-
----
-
-## `03 / BUILDING`
-
-### AI WEB INTERFACE
-
-A lightweight AI chat interface with a frontend and secure backend architecture.
-
-```text
 Browser
    │
    ▼
 Frontend
    │
    ▼
-Node / Express
+Backend
    │
    ├── API boundary
    ├── secret management
-   └── streaming
+   └── response streaming
    │
    ▼
 AI provider
-```
 
-**Focus:** architecture · security boundaries · streaming · API design
+Engineering: Node.js Express REST SSE Security
 
----
+WEB SCRAPING / DATA SYSTEMS
 
-### WEB DATA SYSTEMS
+Experiments around reliable extraction, parsing, validation, transformation, and processing of web data.
 
-Experiments around extracting, validating, transforming, and processing web data.
-
-**Focus:** HTTP · parsing · data pipelines · error handling · reliability
-
----
-
-### PYTHON SYSTEMS
-
-Small projects designed to move beyond syntax and toward actual program design.
-
-**Focus:** state · control flow · modularity · interfaces · debugging
-
----
-
-### OPERATING SYSTEMS
-
-Long-term exploration into operating-system concepts and low-level engineering.
-
-**Focus:** processes · memory · filesystems · networking · isolation · security
-
----
-
-## `04 / SYSTEM MAP`
-
-<div align="center">
-
-<img src="./assets/system-map.gif" width="420" alt="Animated system map">
-
-</div>
-
----
-
-## `05 / ENGINEERING PRINCIPLES`
-
-```text
-01  Fundamentals before frameworks.
-
-02  Understand the implementation.
-
-03  Build small enough to understand completely.
-
-04  Security belongs in architecture.
-
-05  Debugging is part of development.
-
-06  Documentation is part of engineering.
-
-07  A prototype is evidence, not the destination.
-
-08  Learn the system before abstracting it.
-
-09  Build → test → break → debug → improve.
-
-10  Ship what you can explain.
-```
-
----
-
-## `06 / DEVELOPMENT ENVIRONMENT`
-
-```text
-OS              Linux / Windows
-Primary Language Python
-Editor           VS Code
-Version Control  Git + GitHub
-Backend          Node / Express
-Workflow         CLI-first development
-Documentation    Markdown
-```
-
----
-
-## `07 / TERMINAL`
-
-<div align="center">
-
-<img src="./assets/terminal.gif" width="100%" alt="Animated terminal session">
-
-</div>
-
----
-
-## `08 / GITHUB`
-
-<div align="center">
-
-<a href="https://github.com/D1bakar?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-VIEW-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-<a href="https://github.com/D1bakar?tab=stars">
-<img src="https://img.shields.io/badge/STARS-VIEW-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-<a href="https://github.com/D1bakar?tab=activity">
-<img src="https://img.shields.io/badge/ACTIVITY-VIEW-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-</div>
-
----
-
-## `09 / BUILD LOG`
-
-```text
-[ ACTIVE ]
-
-AI WEB INTERFACE
-Secure proxy architecture
-Streaming responses
-Frontend / backend separation
-
-
-[ ACTIVE ]
-
-WEB SCRAPING
-HTTP
-Parsing
-Validation
-Data processing
-
-
-[ LEARNING ]
+Engineering: Python HTTP Parsing Validation Automation
 
 PYTHON SYSTEMS
-Program design
-State management
-Modularity
-Debugging
 
+Small projects deliberately built to move from syntax into program design.
 
-[ RESEARCH ]
+Engineering: State Control Flow Modularity Input Handling Debugging
 
-OPERATING SYSTEMS
-Processes
-Memory
-Filesystems
-Networking
-Security
-```
+OS / SYSTEMS EXPLORATION
 
----
+Long-term exploration of operating-system concepts and lower-level engineering.
 
-## `10 / BEYOND CODE`
+Engineering: Processes Memory Filesystems Networking Security
 
-I’m interested in problems that sit outside a single programming language:
+05 — ENGINEERING MINDSET
+01   Fundamentals > frameworks
 
-**physics · engineering · computer systems · history · geopolitics · philosophy · complex systems**
+02   Understand the implementation
 
-The common thread is the same:
+03   Build small enough to understand completely
 
-> understand the structure beneath the surface.
+04   Security belongs in architecture
 
----
+05   Debugging is part of engineering
 
-## `11 / CONTACT`
+06   Documentation is part of the product
 
-<div align="center">
+07   A prototype is evidence — not the destination
 
-<a href="mailto:shridibakarghosh@gmail.com">
+08   Learn the system before abstracting it
 
-<img src="https://img.shields.io/badge/shridibakarghosh%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335">
+09   Build → test → break → debug → improve
 
-</a>
+10   Ship what you can explain
+06 — TERMINAL
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=500&color=4ADE80&center=true&vCenter=true&width=750&height=170&lines=%24+whoami;d1bakar;%24+focus;software-engineering+%7C+systems+%7C+ai;%24+status;building...;learning...;shipping..." /> </div>
+07 — GITHUB TELEMETRY
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D1bakar&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=00000000" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1bakar&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&bg_color=00000000" height="170"/> <br> <img src="https://streak-stats.demolab.com?user=D1bakar&hide_border=true&background=00000000&stroke=1F2937&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/> </div>
+08 — CONTRIBUTION MATRIX
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=D1bakar&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=D1BAKAR%20%2F%20CONTRIBUTION%20ACTIVITY" width="95%"/> </div>
+09 — CURRENTLY LEARNING
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=700&color=79C0FF&center=true&vCenter=true&width=850&lines=Python+%E2%86%92+Software+Engineering;Linux+%E2%86%92+Systems;Networking+%E2%86%92+Infrastructure;AI+%E2%86%92+Engineering;Security+%E2%86%92+Architecture" /> </div>
+10 — BUILD PHILOSOPHY
+
+Don't optimize for looking like an engineer.
+Optimize for becoming one.
+
+I want every project to leave me with something I understand better than before:
+
+A concept
+    ↓
+A small experiment
+    ↓
+A working system
+    ↓
+A failure
+    ↓
+A better implementation
+    ↓
+Understanding
+11 — CONTACT
+<div align="center"> <a href="mailto:shridibakarghosh@gmail.com"> <img src="https://img.shields.io/badge/shridibakarghosh%40gmail.com-0B0F14?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a>
 
 <br><br>
 
-<a href="https://github.com/D1bakar">
-
-<img src="https://img.shields.io/badge/GitHub-D1bakar-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:111827,100:79b8ff&height=120&section=footer" width="100%">
-
-<sub>BUILD · UNDERSTAND · SHIP · REPEAT</sub>
-
-</div>
-
+<a href="https://github.com/D1bakar"> <img src="https://img.shields.io/badge/GITHUB-D1BAKAR-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,50:0B1220,100:1677FF&height=120&section=footer&animation=fadeIn"/> </div> ```
