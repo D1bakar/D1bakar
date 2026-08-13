@@ -1,137 +1,192 @@
 <div align="center">
 
-<img src="./assets/hero.gif" alt="D1bakar — software engineering, systems and AI" width="100%" />
+<img src="./assets/hero.gif" alt="D1bakar animated engineering banner" width="100%"/>
 
 <br>
 
-<a href="mailto:shridibakarghosh@gmail.com">Email</a>  ·  <a href="https://github.com/D1bakar">GitHub</a>  ·  <a href="https://github.com/D1bakar?tab=repositories">Repositories</a>
+<a href="https://github.com/D1bakar">
+<img src="https://img.shields.io/badge/GITHUB-D1BAKAR-0b0f14?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+<a href="mailto:shridibakarghosh@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONNECT-0b0f14?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+</a>
+<a href="https://github.com/D1bakar?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-0b0f14?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+
+<br><br>
+
+<code>engineering mindset / systems thinking / continuous shipping</code>
 
 </div>
 
-D1bakar / software engineer in progress
+01 — PROFILE
 
-I build software to understand how systems work.
+D1bakar is a developer building toward serious software engineering.
 
-My current path is deliberately broad at the fundamentals and narrow at the implementation level: Python, backend systems, Linux, networking, security, automation, and applied AI.
+I work primarily with Python and web technologies, while deliberately moving deeper into systems, networking, security, operating systems, automation, and AI engineering.
 
-I am not trying to look experienced. I am trying to become difficult to fool — by my own code, by abstractions, and by tools I do not understand.
+I am not trying to collect frameworks.
 
-understand → design → build → test → break → debug → document → repeat
+I am trying to understand how the layers underneath them work.
+
+APPLICATIONS
+    ↓
+SERVICES / APIs
+    ↓
+RUNTIME / PROCESSES
+    ↓
+NETWORK / STORAGE
+    ↓
+OPERATING SYSTEM
+    ↓
+HARDWARE
+
+That stack is what I want to understand.
+
+02 — CURRENT DIRECTION
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+SOFTWARE
+
+Backend systemsAPIs & servicesAutomationDeveloper toolingTesting & debugging
+
+</td>
+<td width="33%" valign="top">
+
+SYSTEMS
+
+LinuxNetworkingOperating systemsSecurity architecturePerformance
+
+</td>
+<td width="33%" valign="top">
+
+AI ENGINEERING
+
+AI applicationsModel integrationAgentic workflowsAutomationHuman + AI systems
+
+</td>
+</tr>
+</table>
+
+03 — TECHNOLOGY
 
 <div align="center">
 
-<img src="./assets/terminal.gif" alt="Animated terminal-style engineering panel" width="100%" />
+LANGUAGES
+
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+
+BACKEND / WEB
+
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+
+TOOLING
+
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
 
 </div>
 
-Current engineering direction
+04 — BUILD LOG
 
-Area
+AI Web Interface
 
-What I am actually working on
+A lightweight ChatGPT-style web interface with a static frontend and a secure Node/Express backend proxy.
 
-Python
+Engineering focus: API boundaries · secret management · streaming responses · frontend/backend separation
 
-automation, backend logic, tooling, clean program structure
+Web Scraper / Data Pipeline
 
-Web systems
+Experiments around reliable extraction, validation, transformation, and handling of web data.
 
-HTTP, APIs, streaming, client/server boundaries
+Engineering focus: HTTP · parsing · validation · error handling · data flow
 
-Linux & systems
+Python Systems
 
-processes, filesystems, networking, operating-system fundamentals
+Small systems built deliberately to move from language syntax into program design.
 
-Security
+Engineering focus: state · control flow · modularity · interfaces · debugging
 
-trust boundaries, secrets, isolation, failure modes, secure defaults
+OS / Systems Experiments
 
-AI engineering
+Long-term exploration into operating-system architecture, security boundaries, processes, memory, filesystems, and networking.
 
-using models as components inside real software rather than as the product itself
+Engineering focus: fundamentals before abstraction
 
-Developer tooling
+<div align="center">
+<img src="./assets/system-map.gif" width="360" alt="Animated system map"/>
+</div>
 
-Git, reproducible environments, debugging, documentation, automation
+05 — ENGINEERING PRINCIPLES
 
-Selected work
+01   Fundamentals before frameworks.
+02   Read the implementation, not just the documentation.
+03   A prototype is evidence, not a finished product.
+04   Security belongs in architecture.
+05   Debugging is part of development.
+06   Documentation is an engineering artifact.
+07   Build small enough to understand completely.
+08   Then scale the ideas, not the complexity.
 
-AI web interface
-
-A lightweight AI chat system designed around a static frontend + secure server-side API boundary + streamed responses.
-
-Focus: API security · SSE · backend architecture · browser/server separation
-
-Web scraping system
-
-A practical scraper built to think about request flow, extraction, parsing, failure handling, and downstream data use rather than one-off scraping scripts.
-
-Focus: HTTP · parsing · automation · data pipelines
-
-Dice roller → RPG parser
-
-A small Python project intentionally pushed beyond the tutorial version into structured input such as 2d6, validation, repeated rolls, and game-oriented logic.
-
-Focus: parsing · control flow · interfaces · incremental design
-
-OS / systems experiments
-
-Long-term work around operating-system fundamentals, isolation, networking, low-level architecture, and security.
-
-Focus: systems thinking · architecture · security · fundamentals
-
-Technical stack
-
-Languages        Python · C · JavaScript · HTML · CSS · Bash
-Backend          Node.js · Express · HTTP · APIs · SSE
-Systems          Linux · Git · processes · filesystems · networking
-Tooling          VS Code · GitHub · virtual environments · CLI workflows
-AI               model APIs · AI-assisted tooling · automation
-
-I treat tools as replaceable. The durable part is the ability to reason about data, state, interfaces, failure, performance, and security.
-
-Engineering principles
-
-01  Fundamentals before abstraction.
-02  Read the source before trusting the tool.
-03  Prefer explicit systems over magical systems.
-04  Security belongs in architecture, not in the final checklist.
-05  A prototype proves an idea; engineering makes it dependable.
-06  Debugging is a core engineering skill, not a sign of failure.
-07  Every project should leave behind a better understanding than it started with.
-08  AI can accelerate implementation; it cannot replace understanding.
-
-What I am learning now
-
-PYTHON                 ████████████████░░  deeper systems + software design
-BACKEND                ██████████████░░░░  APIs, HTTP, streaming, architecture
-LINUX / SYSTEMS        ███████████░░░░░░░  processes, memory, filesystems, networking
-SECURITY               ██████████░░░░░░░░  threat modeling + secure engineering
-AI ENGINEERING         ████████████░░░░░░  useful model-integrated software
-DSA                    █████████░░░░░░░░░  deliberate problem solving
-
-These are learning priorities, not claims of mastery.
-
-GitHub
-
-The most useful signal on this profile is the code itself.
-
-<a href="https://github.com/D1bakar?tab=repositories">Browse repositories →</a>
-
-<a href="https://github.com/D1bakar">Follow the work →</a>
-
-Contact
-
-Email: shridibakarghosh@gmail.com
-
-For technical collaboration, the cleanest route is a GitHub issue, discussion, or repository contribution.
+06 — LIVE GITHUB
 
 <div align="center">
 
-BUILD SMALL.
-UNDERSTAND DEEPLY.
-SHIP OFTEN.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D1bakar&theme=github_dark" alt="GitHub contribution profile" width="95%"/>
 
-<sub>© D1bakar · built in public</sub>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D1bakar&theme=github_dark" alt="Repository languages" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D1bakar&theme=github_dark" alt="Commit languages" width="45%"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D1bakar&theme=github_dark" alt="GitHub statistics" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D1bakar&theme=github_dark&utcOffset=5.5" alt="Productive time" width="45%"/>
+
+</div>
+
+07 — TERMINAL
+
+<img src="./assets/terminal.gif" alt="Animated terminal" width="100%"/>
+
+08 — ACTIVITY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/D1bakar/D1bakar/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="95%"/>
+
+</div>
+
+To enable the contribution animation above, add a GitHub Action that generates the output branch. The README remains valid without it.
+
+09 — CONTACT
+
+<div align="center">
+
+<a href="mailto:shridibakarghosh@gmail.com">
+<img src="https://img.shields.io/badge/shridibakarghosh%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://github.com/D1bakar">
+<img src="https://img.shields.io/badge/github.com%2FD1bakar-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+</div>
+
+<div align="center">
+
+<sub>BUILT IN PUBLIC · LEARNING IN DEPTH · SHIPPING WITH INTENT</sub>
 
 </div>
