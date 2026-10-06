@@ -1,4 +1,4 @@
-![banner](assets/banner.jpg)
+![banner](assets/banner.webp)
 
 ---
 
